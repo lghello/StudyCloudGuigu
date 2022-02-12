@@ -23,6 +23,7 @@
         <module name="Cloud-provider-payment8002" />
         <module name="Cloud-provider-payment8003" />
         <module name="Cloud-consumer-feign-order80" />
+        <module name="cloud_gateway_9527" />
         <module name="cloud-consumer-order80" />
         <module name="Cloud-consumer-order-hystrix80" />
       </profile>
@@ -44,6 +45,7 @@
       <module name="Cloud-provider-payment8002" target="1.8" />
       <module name="Cloud-provider-payment8003" target="1.8" />
       <module name="Cloud-provider-payment8004" target="1.8" />
+      <module name="cloud_gateway_9527" target="1.8" />
       <module name="Cloud_hystrixdashboard_9001" target="1.8" />
       <module name="StudyCloudGuigu" target="1.8" />
     </bytecodeTargetLevel>
